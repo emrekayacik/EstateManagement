@@ -34,35 +34,35 @@ Price Average Area of the All Properties: 124.46666666666667
 
 Filter by 1-2 Saloons and 3-5 Rooms: 
 Property
-Name: 'The Tiny Love House
+Name: The Tiny Love House
 Saloon Quantity: 1
 Room Quantity: 4
 Price: 160.3
 Area: 92.0
 ------------------------------------
 Property
-Name: 'The Emre Villa
+Name: The Emre Villa
 Saloon Quantity: 1
 Room Quantity: 4
 Price: 390.0
 Area: 130.0
 ------------------------------------
 Property
-Name: 'The Kaya Villa
+Name: The Kaya Villa
 Saloon Quantity: 1
 Room Quantity: 3
 Price: 260.3
 Area: 102.0
 ------------------------------------
 Property
-Name: 'The Wonderful Summer House
+Name: The Wonderful Summer House
 Saloon Quantity: 1
 Room Quantity: 5
 Price: 360.0
 Area: 125.0
 ------------------------------------
 Property
-Name: 'The Beautiful Villa
+Name: The Beautiful Villa
 Saloon Quantity: 2
 Room Quantity: 3
 Price: 750.0
