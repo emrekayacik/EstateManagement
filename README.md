@@ -69,7 +69,7 @@ Price: 750.0
 Area: 133.2
 ------------------------------------
 
-Process finished with exit code 0\
+Process finished with exit code 0
 ```
 
 ### Example mock data used:
